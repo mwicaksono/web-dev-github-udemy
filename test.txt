@@ -1,3 +1,3 @@
-This is my feature commit!.
+This is my main commit!.
 
 This is second commit on this file.
